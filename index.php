@@ -11,10 +11,39 @@
   href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
 </head>
 <body>
-    <div class="container">
-  <div class="notification is-primary">
-    This container is <strong>centered</strong> on desktop and larger viewports.
+<section class="section">
+  
+    <ul>
+      <li>
+  <a href="index.php">Home</a>
+      </li>
+      <li>
+  <a href="#">Cursos</a>
+      </li>
+      <li>
+  <a href="#">Gestão</a>
+      </li>
+      <li>
+  <a href="#">Contato</a>
+      </li>
+    </ul>
+</section>
+
+
+
+
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      Direitos Reservados a Lucas V. de Freitas <br>
+
+cnpj: 11.111.111/0001-11<br>
+
+Endereço: Rua dos Esportes, 123 - Cidade Esportiva, MG, Brasil<br>
+
+CEP: 35000-000
+    </p>
   </div>
-</div>
+</footer>
 </body>
 </html>
